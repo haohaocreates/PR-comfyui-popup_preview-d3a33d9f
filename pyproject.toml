@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-popup_preview"
+description = "popup preview for comfyui"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/NimaNzrii/comfyui-popup_preview"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui-popup_preview"
+Icon = ""
